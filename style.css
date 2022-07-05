@@ -236,7 +236,7 @@ footer .social_media {
 }
 
 
-@media(max-width: 376px) {
+@media(max-width: 700px) {
 
     .head {
         padding: 1.2em;
